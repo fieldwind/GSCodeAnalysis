@@ -1,0 +1,6 @@
+framework module GSCodeAnalysis {
+  umbrella header "GSCodeAnalysis.h"
+
+  export *
+  module * { export * }
+}
