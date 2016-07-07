@@ -22,23 +22,23 @@
 
 /* Begin PBXBuildFile section */
 		42B1DF8A1D1A299D0049B6DF /* GSCodeAnalysis.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DF891D1A299D0049B6DF /* GSCodeAnalysis.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		42B1DFDB1D1A2A9E0049B6DF /* NSObject+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFC81D1A2A9E0049B6DF /* NSObject+MemoryLeak.h */; };
+		42B1DFDB1D1A2A9E0049B6DF /* NSObject+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFC81D1A2A9E0049B6DF /* NSObject+MemoryLeak.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		42B1DFDC1D1A2A9E0049B6DF /* NSObject+MemoryLeak.m in Sources */ = {isa = PBXBuildFile; fileRef = 42B1DFC91D1A2A9E0049B6DF /* NSObject+MemoryLeak.m */; };
-		42B1DFDD1D1A2A9E0049B6DF /* UIApplication+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFCA1D1A2A9E0049B6DF /* UIApplication+MemoryLeak.h */; };
+		42B1DFDD1D1A2A9E0049B6DF /* UIApplication+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFCA1D1A2A9E0049B6DF /* UIApplication+MemoryLeak.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		42B1DFDE1D1A2A9E0049B6DF /* UIApplication+MemoryLeak.m in Sources */ = {isa = PBXBuildFile; fileRef = 42B1DFCB1D1A2A9E0049B6DF /* UIApplication+MemoryLeak.m */; };
-		42B1DFDF1D1A2A9E0049B6DF /* UINavigationController+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFCC1D1A2A9E0049B6DF /* UINavigationController+MemoryLeak.h */; };
+		42B1DFDF1D1A2A9E0049B6DF /* UINavigationController+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFCC1D1A2A9E0049B6DF /* UINavigationController+MemoryLeak.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		42B1DFE01D1A2A9E0049B6DF /* UINavigationController+MemoryLeak.m in Sources */ = {isa = PBXBuildFile; fileRef = 42B1DFCD1D1A2A9E0049B6DF /* UINavigationController+MemoryLeak.m */; };
-		42B1DFE11D1A2A9E0049B6DF /* UIPageViewController+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFCE1D1A2A9E0049B6DF /* UIPageViewController+MemoryLeak.h */; };
+		42B1DFE11D1A2A9E0049B6DF /* UIPageViewController+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFCE1D1A2A9E0049B6DF /* UIPageViewController+MemoryLeak.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		42B1DFE21D1A2A9E0049B6DF /* UIPageViewController+MemoryLeak.m in Sources */ = {isa = PBXBuildFile; fileRef = 42B1DFCF1D1A2A9E0049B6DF /* UIPageViewController+MemoryLeak.m */; };
-		42B1DFE31D1A2A9E0049B6DF /* UISplitViewController+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFD01D1A2A9E0049B6DF /* UISplitViewController+MemoryLeak.h */; };
+		42B1DFE31D1A2A9E0049B6DF /* UISplitViewController+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFD01D1A2A9E0049B6DF /* UISplitViewController+MemoryLeak.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		42B1DFE41D1A2A9E0049B6DF /* UISplitViewController+MemoryLeak.m in Sources */ = {isa = PBXBuildFile; fileRef = 42B1DFD11D1A2A9E0049B6DF /* UISplitViewController+MemoryLeak.m */; };
-		42B1DFE51D1A2A9E0049B6DF /* UITabBarController+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFD21D1A2A9E0049B6DF /* UITabBarController+MemoryLeak.h */; };
+		42B1DFE51D1A2A9E0049B6DF /* UITabBarController+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFD21D1A2A9E0049B6DF /* UITabBarController+MemoryLeak.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		42B1DFE61D1A2A9E0049B6DF /* UITabBarController+MemoryLeak.m in Sources */ = {isa = PBXBuildFile; fileRef = 42B1DFD31D1A2A9E0049B6DF /* UITabBarController+MemoryLeak.m */; };
-		42B1DFE71D1A2A9E0049B6DF /* UIView+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFD41D1A2A9E0049B6DF /* UIView+MemoryLeak.h */; };
+		42B1DFE71D1A2A9E0049B6DF /* UIView+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFD41D1A2A9E0049B6DF /* UIView+MemoryLeak.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		42B1DFE81D1A2A9E0049B6DF /* UIView+MemoryLeak.m in Sources */ = {isa = PBXBuildFile; fileRef = 42B1DFD51D1A2A9E0049B6DF /* UIView+MemoryLeak.m */; };
-		42B1DFE91D1A2A9E0049B6DF /* UIViewController+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFD61D1A2A9E0049B6DF /* UIViewController+MemoryLeak.h */; };
+		42B1DFE91D1A2A9E0049B6DF /* UIViewController+MemoryLeak.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFD61D1A2A9E0049B6DF /* UIViewController+MemoryLeak.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		42B1DFEA1D1A2A9E0049B6DF /* UIViewController+MemoryLeak.m in Sources */ = {isa = PBXBuildFile; fileRef = 42B1DFD71D1A2A9E0049B6DF /* UIViewController+MemoryLeak.m */; };
-		42B1DFEB1D1A2A9E0049B6DF /* UIView+GSTheadCheck.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFD91D1A2A9E0049B6DF /* UIView+GSTheadCheck.h */; };
+		42B1DFEB1D1A2A9E0049B6DF /* UIView+GSTheadCheck.h in Headers */ = {isa = PBXBuildFile; fileRef = 42B1DFD91D1A2A9E0049B6DF /* UIView+GSTheadCheck.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		42B1DFEC1D1A2A9E0049B6DF /* UIView+GSTheadCheck.m in Sources */ = {isa = PBXBuildFile; fileRef = 42B1DFDA1D1A2A9E0049B6DF /* UIView+GSTheadCheck.m */; };
 /* End PBXBuildFile section */
 
@@ -308,7 +308,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -350,7 +350,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -425,6 +425,7 @@
 				42B1DF9C1D1A299D0049B6DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		42B1DFF01D1A37000049B6DF /* Build configuration list for PBXAggregateTarget "agg" */ = {
 			isa = XCConfigurationList;
@@ -433,6 +434,7 @@
 				42B1DFF21D1A37000049B6DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

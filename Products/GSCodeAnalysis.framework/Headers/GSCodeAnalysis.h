@@ -20,5 +20,7 @@ FOUNDATION_EXPORT const unsigned char GSCodeAnalysisVersionString[];
 #import "NSObject+MemoryLeak.h"
 
 
+#import "UIViewController+MemoryLeak.h"
+
 //#define GSAnalysis_ThreadCheck
 //#define GSAnalysis_MemoryLeak
